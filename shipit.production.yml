@@ -1,0 +1,4 @@
+
+machine:
+  environment:
+    HEROKU_APP_NAME: shakehands-with-deployer
