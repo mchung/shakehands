@@ -3,7 +3,7 @@ module Shakehands
     configure { set :server, :puma }
     
     get '/' do
-      '✅'
+      '🤔'
     end
   end
 end
